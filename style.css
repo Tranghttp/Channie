@@ -126,21 +126,19 @@ body{
     align-items: center;
 }
 main.table{
-    width: 650px;
+    width: 600px;
     height: 50px;
     background-color: #fff5;
     position:absolute;
-    top: 26%;
-    left: 60%;
+    top: 27%;
+    left: 62%;
 }
 table, thead, th {
     color: #511414;
 }
 table, th, td{
     padding: 1rem;
-}
-table, tbody, td{
-    text-align:right;
+
 }
 .table_header {
     font-size: 30px;
